@@ -1,5 +1,3 @@
-# Philosophy-AI
-A fun and simple console chatbot that gives random, silly, and weird answers to your deep questions. Built with Python (or R), it pretends to be wise — but makes no sense at all.
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
@@ -16,9 +14,11 @@ A fun and simple console chatbot that gives random, silly, and weird answers to 
 
 
 ### Project Description
-[2-3 ]
+[To entertain the user with randomly selected, bizarre philosophical responses, regardless of what the user asks. ]
 
-### The Problem (that doesn't exist)
+###
+# No logic, just lasagna.
+The internal philosophy engine runs entirely on layers of randomness, not reason. Lasagna-based epistemology is still unrecognized in academic circles.)
 [What ridiculous problem are you solving?]
 
 ### The Solution (that nobody asked for)
@@ -27,15 +27,35 @@ A fun and simple console chatbot that gives random, silly, and weird answers to 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [R]
+- [NONE]
+- [NONE]
+- [R
+
+R Console
+RStudio
+Base R]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [CPU
+
+RAM
+
+Storage
+
+Monitor]
+- [CPU: 1 GHz or higher
+
+RAM: 2 GB minimum (4+ GB recommended)
+
+Storage: 100 MB for R + extra for scripts
+
+OS: Windows, macOS, or Linux]
+- [Computer
+
+Internet (for setup/updates)
+
+Text editor or IDE (e.g., RStudio)]
 
 ### Implementation
 For Software:
