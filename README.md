@@ -60,13 +60,15 @@ Text editor or IDE (e.g., RStudio)]
 ### Implementation
 For Software:
 # Installation
-[commands]
+[# Go to: https://cran.r-project.org/
+# Download and install R for your OS
+# Go to: https://posit.co/download/rstudio-desktop/
+# Download and install RStudio (helps run R code more easily)
+]
 
 #This Python script simulates a humorous and whimsical "AI Philosopher" that gives absurd, surreal, or nonsensical answers to any question the user asks. It's designed to entertain with quirky philosophical-sounding responses.
-[commands]
-
-### Project Documentation
-For Software:
+[https://www.python.org/downloads/
+]
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -110,9 +112,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [jisna 1]: Wrote the core logic of the AI Philosopher and managed the random response system in R.
+- [Asna T.s]: [helped to find the idea ]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
