@@ -71,45 +71,10 @@ For Software:
 ]
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 05 20 42_746ed30b](https://github.com/user-attachments/assets/9c8ba54b-03a8-4d69-ba1c-87c048b02fdc)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![Screenshot2]
+![WhatsApp Image 2025-08-09 at 05 20 42_c802804e](https://github.com/user-attachments/assets/d92bda30-930b-4025-a3ae-5357bf2cd0bc)
 
 ## Team Contributions
 - [jisna 1]: Wrote the core logic of the AI Philosopher and managed the random response system in R.
